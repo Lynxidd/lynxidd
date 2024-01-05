@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ToastedExistence Or Exi</h1>
+<h1 align="center">Hi 👋, I'm ToastedExistence Or Quinn</h1>
 <h3 align="center">I'm a beginner dev and webdesigner!</h3>
 
 - 🔭 I’m currently working on [ToastedBot](https://github.com/ToastedExistence/ToastedBot)
