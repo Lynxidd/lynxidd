@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm ToastedExistence Or Quinn</h1>
+<h1 align="center">Hi 👋, I'm Soupissoup Or Sammi</h1>
 <h3 align="center">I'm a beginner dev and webdesigner!</h3>
 
 - 🔭 I’m currently working on [ToastedBot](https://github.com/ToastedExistence/ToastedBot)
 
-- 🌱 I’m currently learning **how to code a discord bot in java**
+- 🌱 I’m currently learning **how to make wafflesarebetter more annoyedede**
 
-- 📫 How to reach me **Toasted@wafcorp.org or my discord toastedexistence**
+- 📫 How to reach me **Toasted@wafcorp.org or my discord soupmaybesoup**
 
 - ⚡ Fun fact **Wafflesaregay**
 
