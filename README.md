@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lynxid Or Lynx</h1>
 <h3 align="center">I'm a beginner dev and webdesigner!</h3>
 
-- 🔭 I’m currently working on a [Plugin](https://github.com/ToastedExistence/ToastedBot) for the wsmp!
+- 🔭 I’m currently working on a [Plugin](https://github.com/Lynxidd/Wafsmp-VerAct) for the wsmp!
 
 - 🌱 I’m currently learning **how to make wafflesarebetter more annoyedede**
 
