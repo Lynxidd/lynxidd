@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Soupissoup Or Sammi</h1>
+<h1 align="center">Hi 👋, I'm Lynxid Or Lynx</h1>
 <h3 align="center">I'm a beginner dev and webdesigner!</h3>
 
-- 🔭 I’m currently working on [ToastedBot](https://github.com/ToastedExistence/ToastedBot)
+- 🔭 I’m currently working on a [Plugin](https://github.com/ToastedExistence/ToastedBot) for the wsmp!
 
 - 🌱 I’m currently learning **how to make wafflesarebetter more annoyedede**
 
-- 📫 How to reach me **Toasted@wafcorp.org or my discord soupmaybesoup**
+- 📫 How to reach me **Toasted@wafcorp.org or my discord lynxidd**
 
 - ⚡ Fun fact **Wafflesaregay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/toastedexistence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toastedexistence" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/toastedexistence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="toastedexistence" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/lyxi.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="toastedexistence" height="30" width="40" /></a>
 <a href="https://discord.gg/KvS3HU37NN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KvS3HU37NN" height="30" width="40" /></a>
 </p>
 
